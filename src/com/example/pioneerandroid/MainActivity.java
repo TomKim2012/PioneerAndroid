@@ -1,11 +1,8 @@
 package com.example.pioneerandroid;
 
-import org.apache.cordova.CordovaChromeClient;
-import org.apache.cordova.CordovaWebView;
 import org.apache.cordova.DroidGap;
 
 import android.os.Bundle;
-import android.util.Log;
 
 public class MainActivity extends DroidGap {
 
